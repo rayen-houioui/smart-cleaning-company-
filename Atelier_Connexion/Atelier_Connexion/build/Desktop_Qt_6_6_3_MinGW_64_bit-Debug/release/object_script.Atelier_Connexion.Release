@@ -1,0 +1,13 @@
+release/Facture.o
+release/arduino.o
+release/client.o
+release/commande.o
+release/email.o
+release/employe.o
+release/historique.o
+release/main.o
+release/mainwindow.o
+release/connection.o
+release/produit.o
+release/service.o
+release/moc_mainwindow.o
