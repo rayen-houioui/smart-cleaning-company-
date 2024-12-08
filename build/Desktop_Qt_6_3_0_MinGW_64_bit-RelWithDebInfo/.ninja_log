@@ -1,0 +1,14 @@
+# ninja log v6
+16	1049	7544948356369804	zeezeaez_autogen/timestamp	c01e1cedb47eb44f
+16	1049	7544948356369804	zeezeaez_autogen/mocs_compilation.cpp	c01e1cedb47eb44f
+16	1049	7544948356369804	C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-RelWithDebInfo/zeezeaez_autogen/timestamp	c01e1cedb47eb44f
+16	1049	7544948356369804	C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-RelWithDebInfo/zeezeaez_autogen/mocs_compilation.cpp	c01e1cedb47eb44f
+1056	1251	7544948359270371	zeezeaez_autogen/EWIEGA46WW/qrc_resource.cpp	9274f069c9e57812
+1056	1251	7544948359270371	C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-RelWithDebInfo/zeezeaez_autogen/EWIEGA46WW/qrc_resource.cpp	9274f069c9e57812
+1267	2658	7544948359536108	CMakeFiles/zeezeaez.dir/connection.cpp.obj	9ba2c92bee20c335
+1251	4074	7544948359380720	CMakeFiles/zeezeaez.dir/zeezeaez_autogen/mocs_compilation.cpp.obj	70ff47513390ffc5
+1256	4213	7544948359430913	CMakeFiles/zeezeaez.dir/main.cpp.obj	3096b2e98ad5dd03
+1276	4572	7544948359621338	CMakeFiles/zeezeaez.dir/zeezeaez_autogen/EWIEGA46WW/qrc_resource.cpp.obj	9cd97204b7c9b8c3
+1271	5803	7544948359581177	CMakeFiles/zeezeaez.dir/employe.cpp.obj	43a38b06ef9617c
+1262	9642	7544948359485966	CMakeFiles/zeezeaez.dir/mainwindow.cpp.obj	a2015e94aedb7563
+9643	9923	7544948443298048	zeezeaez.exe	5f23928441783ff3

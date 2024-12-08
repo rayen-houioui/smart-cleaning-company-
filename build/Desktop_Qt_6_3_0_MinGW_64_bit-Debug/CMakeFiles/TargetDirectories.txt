@@ -1,0 +1,9 @@
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/zeezeaez.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/zeezeaez_autogen_timestamp_deps.dir
+C:/Users/ray/Documents/zeezeaez/build/Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/zeezeaez_autogen.dir

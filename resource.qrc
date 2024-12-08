@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>Shinny__6_-removebg-preview.png</file>
+        <file>Shinny__4_-removebg-preview.png</file>
+        <file>Shinny__7_-removebg-preview.png</file>
+        <file>graphique.png</file>
+        <file>histogramme (1).png</file>
+        <file>histogramme.png</file>
+        <file>liste.png</file>
+        <file>liste-a-puces.png</file>
+        <file>chercher (1).png</file>
+        <file>chercher.png</file>
+        <file>statistiques.png</file>
+        <file>tableau-de-bord.png</file>
+        <file>add.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefi"/>
+    <qresource prefix="/image">
+        <file>search-engine66</file>
+        <file>res.qrc</file>
+        <file>Untitled design7</file>
+        <file>Untitled_design_horizontalaza</file>
+        <file>aaaaa</file>
+        <file>BUBBLE</file>
+        <file>Your paragraph Gesttext.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
