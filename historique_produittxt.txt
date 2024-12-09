@@ -1,0 +1,47 @@
+2024-11-17 23:54:24 - Consultation de l'historique
+2024-11-17 23:56:44 - Produit trouvé : ID : 369
+2024-11-17 23:56:47 - Produit trouvé : ID : 369
+2024-11-17 23:56:51 - Consultation de l'historique
+2024-11-18 00:10:05 - Produit trouvé : ID : 369
+2024-11-18 00:10:08 - Produit trouvé : ID : 369
+2024-11-18 00:10:18 - Produit trouvé : Nom : xe
+2024-11-18 00:10:26 - Produit trouvé : ID : 30
+2024-11-18 00:10:54 - Consultation de l'historique
+2024-11-18 00:11:32 - Consultation de l'historique
+2024-11-18 00:12:53 - Consultation de l'historique
+2024-11-18 09:53:34 - Produit trouvé : ID : 23
+2024-11-18 09:53:37 - Produit trouvé : ID : 23
+2024-11-18 09:53:41 - Produit trouvé : ID : 23
+2024-11-18 09:53:44 - Produit trouvé : ID : 23
+2024-11-18 09:54:41 - Produit trouvé : ID : 1
+2024-11-18 09:54:46 - Produit trouvé : ID : 1
+2024-11-18 09:59:42 - Produit trouvé : ID : 1
+2024-11-18 09:59:43 - Produit trouvé : ID : 1
+2024-11-18 10:00:57 - Produit trouvé : ID : 1
+2024-11-18 10:00:57 - Produit non trouvé : ID : 1
+2024-11-18 10:00:58 - Produit trouvé : ID : 1
+2024-11-18 10:00:58 - Produit non trouvé : ID : 1
+2024-11-18 10:02:39 - Produit trouvé : ID : 555
+2024-11-18 10:02:50 - Produit trouvé : ID : 555
+2024-11-18 10:02:50 - Produit non trouvé : ID : 555
+2024-11-18 10:02:51 - Produit trouvé : ID : 555
+2024-11-18 10:02:51 - Produit non trouvé : ID : 555
+2024-11-18 10:02:55 - Produit non trouvé : Nom : 555
+2024-11-18 10:03:03 - Produit trouvé : ID : 55
+2024-11-18 10:03:05 - Produit non trouvé : ID : 55
+2024-11-18 10:03:06 - Produit non trouvé : ID : 55
+2024-11-18 10:03:07 - Produit non trouvé : Nom : 55
+2024-11-18 10:24:19 - Consultation de l'historique
+2024-11-18 10:39:41 - Produit trouvé : ID : 3223
+2024-11-18 10:40:23 - Produit trouvé : ID : 2
+2024-11-18 10:40:23 - Produit non trouvé : ID : 2
+2024-11-18 10:40:25 - Produit trouvé : ID : 2
+2024-11-18 10:40:25 - Produit non trouvé : ID : 2
+2024-11-18 10:40:28 - Produit trouvé : ID : 2
+2024-11-18 10:40:33 - Produit trouvé : ID : 2
+2024-11-18 10:40:35 - Produit non trouvé : Nom : 2
+2024-11-18 10:41:56 - Produit trouvé : ID : 2
+2024-11-18 10:44:39 - Consultation de l'historique
+2024-11-18 10:44:51 - Consultation de l'historique
+2024-11-18 11:53:25 - Produit trouvé : Nom : hu
+2024-11-18 11:58:14 - Produit non trouvé : Nom : ,

@@ -1,0 +1,14 @@
+debug/arduino.o
+debug/commande.o
+debug/main.o
+debug/mainwindow.o
+debug/connection.o
+debug/produit.o
+debug/client.o
+debug/service.o
+debug/e_mail.o
+debug/employe.o
+debug/facture.o
+debug/historique.o
+debug/maintenance.o
+debug/moc_mainwindow.o
